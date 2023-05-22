@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../abb-dp-servicemesh-mf"
+		},
+		{
+			"path": "../../../../../abb-dp-host"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
